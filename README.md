@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chamila24
+- 👋 Hi, I’m Chamila
 - 👀 I’m interested in GenAI models and Agents
 - 🌱 I’m currently learning data preparation 
 - 💞️ I’m looking to collaborate on GenAI models
